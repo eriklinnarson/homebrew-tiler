@@ -1,6 +1,6 @@
 cask "tiler" do
-    version "0.1.0"
-    sha256 "0b86bfcb2057e5ac2037a8689cbab47d81ed710ee016a88998bfdffdc7895ca6"
+    version "0.2.0"
+    sha256 "d6b347b74eef19a1911f7eba5c07aa1702ece2fa0b998dd3486c78066eb8a49e"
 
     url "https://github.com/eriklinnarson/Tiler/releases/download/v#{version}/Tiler.zip"
     name "Tiler"
